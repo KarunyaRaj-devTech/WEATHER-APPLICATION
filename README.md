@@ -63,3 +63,11 @@ npm run start
 cd client
 npm start
 ```
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/91955622-f566-4d7b-a476-c082a3c65d56)
+
+![Image](https://github.com/user-attachments/assets/01d9f15a-65a6-4262-bafb-4ecaf95fe160)
+
+![Image](https://github.com/user-attachments/assets/8ad18d06-26de-4af4-9db3-c84eebfc6f93)
